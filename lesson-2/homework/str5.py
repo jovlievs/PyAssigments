@@ -16,4 +16,4 @@
 # print("Consonants:", consonant_count)
 
 lst=input() 
-print(len(list(filter(lambda x: x in ['a','e','u','i','y','o'],lst))))
+print(len(list(filter(lambda x: x in ['a','e','u','i','y','o'], lst))))
